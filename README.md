@@ -35,9 +35,9 @@ https://carpricepredictorbysourabh.streamlit.app/
 
 ## Tech Stack
 
-- Python  
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- Streamlit  
+Python  
+Pandas  
+NumPy  
+Scikit-learn  
+Streamlit  
 
